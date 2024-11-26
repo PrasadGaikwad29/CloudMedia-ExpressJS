@@ -1,6 +1,6 @@
-# CloudVault
+# CloudMedia
 
-CloudVault is a backend service that allows users to easily upload photos and videos from their local machine to Cloudinary. Built with Node.js and Express, this project provides a simple and efficient way to manage media files in the cloud.
+CloudMedia is a backend service that allows users to easily upload photos and videos from their local machine to Cloudinary. Built with Node.js and Express, this project provides a simple and efficient way to manage media files in the cloud.
 
 ## Features
 
@@ -67,15 +67,3 @@ Before you begin, ensure you have met the following requirements:
 
 - `POST /upload`: Upload a file to Cloudinary
   - Request body should be `multipart/form-data` with a `file` field containing the image or video
-
-## Contributing
-
-Contributions to CloudVault are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions, feel free to reach out to me at [your-email@example.com].
